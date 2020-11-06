@@ -1,0 +1,121 @@
+{
+  "id": "2124043",
+  "name": "淘宝",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11782799",
+      "name": "收藏",
+      "font_class": "shoucang2",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "13394496",
+      "name": "收 藏",
+      "font_class": "shoucang1",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "8610633",
+      "name": "淘宝",
+      "font_class": "taobao",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "6731252",
+      "name": "搜索--1",
+      "font_class": "xingtaiduICON_sousuo---copy",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "8414965",
+      "name": "店铺",
+      "font_class": "dianpu",
+      "unicode": "e6b3",
+      "unicode_decimal": 59059
+    },
+    {
+      "icon_id": "9341682",
+      "name": "收 藏 ",
+      "font_class": "shoucang",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "9896686",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "14042712",
+      "name": "左箭头",
+      "font_class": "zuojiantou",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "310643",
+      "name": "cart",
+      "font_class": "cart",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "833977",
+      "name": "home",
+      "font_class": "icon_home",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "1393662",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e6f3",
+      "unicode_decimal": 59123
+    },
+    {
+      "icon_id": "6554427",
+      "name": "订单列表",
+      "font_class": "dingdanliebiao",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "6807608",
+      "name": "Cart",
+      "font_class": "Cart",
+      "unicode": "ec90",
+      "unicode_decimal": 60560
+    },
+    {
+      "icon_id": "8221854",
+      "name": "wode",
+      "font_class": "wode",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "9466444",
+      "name": "wode",
+      "font_class": "wode1",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "15636292",
+      "name": "订单列表",
+      "font_class": "dingdanliebiao1",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    }
+  ]
+}
